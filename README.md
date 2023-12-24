@@ -1,4 +1,4 @@
-**Códigos em matlab para sistema dinâmico de biela-manivela**
+#Códigos em matlab para sistema dinâmico de biela-manivela#
 Este projeto contém códigos em matlab para calcular as equações diferenciais ordinárias (EDOs) de um sistema dinâmico de biela-manivela e obter a posição, velocidade e aceleração das barras do mecanismo. Além disso, o projeto plota gráficos de cada uma das componentes para que seja feita a simulação do movimento do mecanismo.
 
 **Requisitos**
