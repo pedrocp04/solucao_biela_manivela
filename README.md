@@ -16,9 +16,12 @@ jacobiana_bielamanivela.m: Calcula a jacobiana que é usada nos cálculos da pos
 ### Como usar ###
 Para usar este projeto, basta abrir o arquivo **principal_bielamanivela.m** no matlab e executá-lo. Você pode alterar os parâmetros do mecanismo, como o comprimento das barras, o ângulo inicial da manivela, a velocidade angular da manivela e o intervalo de tempo da simulação, modificando as variáveis no início do código. Os resultados serão mostrados na janela de comando e nos gráficos gerados.
 
-Referências
+### Referências ###
+
+
 Este projeto foi baseado nas seguintes referências:
 
 Mecanismos com 1 Grau de Liberdade - Departamento de Engenharia Mecânica
+
+
 <[Mecanismo Biela Manivela - Posição | Engenharia - YouTube](https://www.youtube.com/watch?v=BeseyBNOAj0)>
-Análise cinemática em mecanismo pistão-biela-manivela … - Unesp
