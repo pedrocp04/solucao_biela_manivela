@@ -10,7 +10,7 @@ bielamanivela_analitico.m: Este arquivo contém uma função auxiliar que calcul
 bielamanivela_numerico.m: Este arquivo contém uma função auxiliar que calcula as posições, velocidades e acelerações das barras do mecanismo de forma numérica.
 
 ### Como usar ###
-Para usar este projeto, basta abrir o arquivo bielamanivela_algebrico.m no matlab e executá-lo. Você pode alterar os parâmetros do mecanismo, como o comprimento das barras, o ângulo inicial da manivela, a velocidade angular da manivela e o intervalo de tempo da simulação, modificando as variáveis no início do código. Os resultados serão mostrados na janela de comando e nos gráficos gerados.
+Para usar este projeto, basta abrir o arquivo **principal_bielamanivela.m** no matlab e executá-lo. Você pode alterar os parâmetros do mecanismo, como o comprimento das barras, o ângulo inicial da manivela, a velocidade angular da manivela e o intervalo de tempo da simulação, modificando as variáveis no início do código. Os resultados serão mostrados na janela de comando e nos gráficos gerados.
 
 Referências
 Este projeto foi baseado nas seguintes referências:
