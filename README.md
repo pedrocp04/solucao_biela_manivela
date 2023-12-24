@@ -6,10 +6,20 @@ Este projeto contém códigos em matlab para calcular as equações diferenciais
 Para executar os códigos deste projeto, você precisa ter o matlab instalado em seu computador. Você também precisa ter os seguintes arquivos na mesma pasta:
 
 eqmov_bielamanivela_cinnum.m: Este arquivo contém uma função auxiliar que calcula as posições, velocidades e acelerações das barras do mecanismo de forma numérica.
+
+
 funcao_bielamanivela.m: Este arquivo contém uma função auxiliar que calcula as posições, velocidades e acelerações das barras do mecanismo de forma analítica.
+
+
 principal_bielamanivela.m: Este arquivo é o principal que irá resolver as EDOs e plotar os gráficos.
-metodo_newton.m: Esqte arquivo contém o método utilizado para resolver parte das EDOs.
+
+
+metodo_newton.m: Este arquivo contém o método utilizado para resolver parte das EDOs.
+
+
 runge_kutta.m: Outro método para calcular as EDOs.
+
+
 jacobiana_bielamanivela.m: Calcula a jacobiana que é usada nos cálculos da posição e velocidade.
 
 
